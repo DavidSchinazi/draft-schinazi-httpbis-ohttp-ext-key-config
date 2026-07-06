@@ -14,14 +14,14 @@ keyword:
  - configuration
  - extension
 area: "Web and Internet Transport"
-workgroup: HTTPBIS Working Group
+workgroup: "HTTP"
 venue:
-  group: HTTPBIS
-  type: Working Group
+  group: "HTTP"
+  type: "Working Group"
   home: https://httpwg.org/
-  mail: ietf-http-wg@w3.org
-  arch: https://lists.w3.org/Archives/Public/ietf-http-wg/
-  github: DavidSchinazi/draft-schinazi-httpbis-ohttp-ext-key-config
+  mail: "ietf-http-wg@w3.org"
+  arch: "https://lists.w3.org/Archives/Public/ietf-http-wg/"
+  github: "DavidSchinazi/draft-schinazi-httpbis-ohttp-ext-key-config"
   latest: "https://DavidSchinazi.github.io/draft-schinazi-httpbis-ohttp-ext-key-config/draft-schinazi-httpbis-ohttp-ext-key-config.html"
 
 author:
